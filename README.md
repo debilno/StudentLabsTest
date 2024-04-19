@@ -24,7 +24,7 @@
 ## Запуск проекта
 Для запуска проекта выполните следующие команды:
 
-npm install
-npm run start
++ npm install
++ npm run start
 
 Приложение будет доступно по адресу http://localhost:3000.
